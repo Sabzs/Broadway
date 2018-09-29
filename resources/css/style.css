@@ -37,9 +37,20 @@ p {
   font-weight: bold;
   font-size: 23px;
   color: white;
+  text-align: center;
 }
 .portfolio {
   background-color: white;
   text-align: center;
   font-family: Helvetica;
+}
+footer {
+  font-family: Helvetica;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+a {
+  color: white;
+  font-size: 14px;
 }
